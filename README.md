@@ -57,7 +57,7 @@ Full table with details is in `tests/test_samples.md`.
 | 5 | https://xn--example.invalid/ | Punycode-style hostname | Contains a punycode-style hostname. | PASS |
 | 6 | http://[bad | Clear error message, no crash | This text is not a valid URL format. | PASS |
 
-Test 6 is an extra test for Improvement C. I re-ran tests 1 to 5 after adding both improvements to make sure nothing broke.
+Test 6 is an extra test for Improvement . I re-ran tests 1 to 5 after adding both improvements to make sure nothing broke.
 
 ## Screenshots
 ![Sample run](screenshots/sample_run.png)
